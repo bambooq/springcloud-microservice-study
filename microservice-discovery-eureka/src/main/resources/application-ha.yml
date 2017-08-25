@@ -1,4 +1,3 @@
-
 spring:
   profiles: peer1                                 # 指定profile=peer1
 server:
